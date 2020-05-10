@@ -1,8 +1,10 @@
+My book
+
+![My book](https://github.com/shichaog/WebRTC-audio-processing/blob/master/book.png)
+
+[天猫购买链接](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.6.3a8e144cSO3Gp9&id=616382027158&areaId=330100&user_id=1932014659&cat_id=2&is_b=1&rn=919b763eb3051be569c91f85996e73eb)
+
+[京东购买链接](https://item.jd.com/12838726.html)
+
 # CGMM_BF
 This method is base on Online MVDR Beamformer Based on Complex Gaussian Mixture Model with Spatial Prior for Noise Robust ASR.
-
-[You may click here to to git book for more material.](https://shichaog1.gitbooks.io/hand-book-of-speech-enhancement-and-recognition/content/)
-
-可从淘宝、京东、当当购买本书。
-《实时语音处理实践指南》，若如下链接失效，请在购买软件里搜索书名。
-https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.4.13f574848RXeNK&id=616382027158
